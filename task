@@ -1,0 +1,12 @@
+
+
+
+
+
+1. create form
+2. sign-in method implementation
+3. sign-out method implementation
+4. log-in method implementation
+5. forget password method implementation
+6. email verification method implementation
+7. require-auth route
