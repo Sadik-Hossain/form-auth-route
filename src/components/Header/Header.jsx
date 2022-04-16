@@ -11,7 +11,7 @@ const Header = () => {
         background: "salmon",
       }}
     >
-      <h1 style={{color:"white"}}>this is header</h1>
+      <h1 style={{color:"white",paddingLeft:"1rem"}}>header</h1>
       <div>
 
         <Link className="link" to="/home">
